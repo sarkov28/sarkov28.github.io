@@ -25,7 +25,7 @@
       2025-08_m3記事に関するグラフの作成.ipynb<br>
       [https://colab.research.google.com/drive/1QqM83D1CKec_98ycQ_dTia5X9eB6Bv2P](https://colab.research.google.com/drive/1QqM83D1CKec_98ycQ_dTia5X9eB6Bv2P)
 - 修正履歴<br>
-  [https://sarkov28.github.io/CHANGELOG.md](https://sarkov28.github.io/CHANGELOG.md)
+  [https://sarkov28.github.io/CHANGELOG](https://sarkov28.github.io/CHANGELOG)
 
 ## License
 Except where otherwise noted, the contents of this repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
