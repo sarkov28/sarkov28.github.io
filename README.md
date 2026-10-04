@@ -5,10 +5,12 @@
   - 西浦教授が示した「接触8割減」政策の根拠への疑義
     -  2024-12 改訂 「接触8割減」政策の科学的根拠<br>
       [https://sarkov28.github.io/2024/policy_basis_80pct_contact_reduction.pdf](https://sarkov28.github.io/2024/policy_basis_80pct_contact_reduction.pdf)<br>
-      「接触8割減」政策の根拠は、2020-04-22 専門家会議「提言」図2である。このグラフの問題を検討した。このグラフには、「新規感染者数都感染者数の取り違え」の疑いがある。（この疑いについては、西浦教授による 2025-08 m3記事の説明がある。）このグラフには「感染日基準と報告日基準の取り違え」の問題もある。
+      「接触8割減」政策の根拠は、2020-04-22 専門家会議「提言」図2である。このグラフの問題を検討した。
+      - このグラフには、「新規感染者数と感染者数の取り違え」の疑いがある。西浦教授はこの疑いについてインタビュー記事 [橋本 2025] で説明した。このインタビュー記事の問題点を指摘したのが、下記の資料「2025-08 m3記事の説明への疑義」である。
+      - このグラフには「感染日基準と報告日基準の取り違え」の問題もあるが、西浦教授はこの問題についてはインタビュー記事で説明していない。下記の資料はこの問題も論じている。
 - 2025
   - 2025-08 m3記事の説明への疑義<br>
-    岩本康志教授や私などによる「新規感染者数と感染者数の取り違えでは」との指摘に対し、西浦教授は 2025-08 の [m3記事](https://www.m3.com/news/open/iryoishin/1292682) で、「新規感染者数と感染者数の取り違えではなく、「2つのモデルの使い分け」だった」などの説明を示した。以下の資料で、m3記事の説明を検証した。
+    岩本康志教授や私などによる「新規感染者数と感染者数の取り違えでは」との指摘に対し、西浦教授は 2025-08 の [m3記事](https://www.m3.com/news/open/iryoishin/1292682) で、（政府が根拠として示したグラフは）「厳密には根拠と言えるものではないと思います（「背景理論」と表現できる程度ではないでしょうか）」「新規感染者数と感染者数の取り違えではなく、「2つのモデルの使い分け」だった」などの旨を説明した。以下の資料で、m3記事の説明を検証した。
     - 資料1: m3記事全体の横断的な検証<br>
       「接触8割減」2つのモデル使い分けの正当性への疑問<br>
       [https://sarkov28.github.io/2025/1109a.pdf](https://sarkov28.github.io/2025/1109a.pdf)
@@ -26,6 +28,9 @@
       [https://colab.research.google.com/drive/1QqM83D1CKec_98ycQ_dTia5X9eB6Bv2P](https://colab.research.google.com/drive/1QqM83D1CKec_98ycQ_dTia5X9eB6Bv2P)
 - 修正履歴<br>
   [https://sarkov28.github.io/CHANGELOG](https://sarkov28.github.io/CHANGELOG)
+
+## References
+- [橋本 2025] 橋本佳子, "緊急事態宣言「8割接触削減」の計算過程、改めてご説明します- 西浦博・京都大学大学院教授に聞く," 2025-08-26, https://www.m3.com/news/open/iryoishin/1292682
 
 ## License
 Except where otherwise noted, the contents of this repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
