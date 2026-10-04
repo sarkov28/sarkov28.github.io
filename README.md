@@ -32,6 +32,15 @@
 ## References
 - [橋本 2025] 橋本佳子, "緊急事態宣言「8割接触削減」の計算過程、改めてご説明します- 西浦博・京都大学大学院教授に聞く," 2025-08-26, https://www.m3.com/news/open/iryoishin/1292682
 
+## Author
+sarkov28<br>
+
+https://x.com/sarkov28<br>
+<br>
+https://sarkov28.hatenablog.com/entry/2022/03/29/160915<br>
+<br>
+https://orcid.org/0009-0000-9544-8622<br>
+
 ## License
 Except where otherwise noted, the contents of this repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 https://creativecommons.org/licenses/by/4.0/
