@@ -1,0 +1,8 @@
+---
+---
+@import "{{ site.theme }}";
+@media (min-width: 768px) {
+  .markdown-body {
+    font-size: 14px;
+  }
+}
